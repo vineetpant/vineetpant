@@ -13,7 +13,7 @@ for India.
 
 ## Tech
 
-Rust · TypeScript · Java · C . Solidity · libp2p · SSZ
+Rust · TypeScript · Java · C . Solidity .
 
 ## Contact
 
